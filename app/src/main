@@ -1,0 +1,15 @@
+java/com/example/sweetreminder/
+├─ MainActivity.kt
+├─ ui/theme/Color.kt
+├─ ui/theme/Theme.kt
+├─ data/Compliment.kt
+├─ data/ComplimentDao.kt
+├─ data/ComplimentDatabase.kt
+├─ data/PreferencesRepository.kt
+├─ logic/ComplimentGenerator.kt
+└─ work/ReminderWorker.kt
+res/
+├─ values/strings.xml
+└─ xml/workmanager.xml
+AndroidManifest.xml
+build.gradle(:app)
